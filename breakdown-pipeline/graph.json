@@ -1,0 +1,225 @@
+{
+  "nodes": [
+    {
+      "text": "It's certainly better for children to grow up in a big city.",
+      "id": "N1"
+    },
+    {
+      "text": "Of course you need to choose a good neighborhood.",
+      "id": "N2"
+    },
+    {
+      "text": "I hold this belief because of two main reasons, academic and social reasons.",
+      "id": "N3"
+    },
+    {
+      "text": "Some people thinks that if a child grows up in a big city they will be all day at home at the computer or at the video-game,",
+      "id": "N4"
+    },
+    {
+      "text": "but this is not true if you live in a neighborhood with other people about your age as I did.",
+      "id": "N5"
+    },
+    {
+      "text": "My friends and I used to play soccer, bike, climb trees and do a lot of other stuff every day.",
+      "id": "N6"
+    },
+    {
+      "text": "We did play video-games,",
+      "id": "N7"
+    },
+    {
+      "text": "but that wasn't our main activity.",
+      "id": "N8"
+    },
+    {
+      "text": "In a big city there are more kinds of people and more things to do.",
+      "id": "N9"
+    },
+    {
+      "text": "I have a friend that grew up in the countryside.",
+      "id": "N10"
+    },
+    {
+      "text": "He said that he had to study a lot to pass the test to enter the university.",
+      "id": "N11"
+    },
+    {
+      "text": "This is another downside of growing up in the countryside.",
+      "id": "N12"
+    },
+    {
+      "text": "In a big city you have more qualified teachers",
+      "id": "N13"
+    },
+    {
+      "text": "and a better access to technology.",
+      "id": "N14"
+    },
+    {
+      "text": "Growing up in the countryside is not such a good experience,",
+      "id": "N15"
+    },
+    {
+      "text": "you won't know a lot of people,",
+      "id": "N16"
+    },
+    {
+      "text": "there are gossips everywhere,",
+      "id": "N17"
+    },
+    {
+      "text": "and your life will be really limited.",
+      "id": "N18"
+    },
+    {
+      "text": "If someday I have children,",
+      "id": "N19"
+    },
+    {
+      "text": "I'm absolutely sure that they will grow up in a good neighborhood of a big city",
+      "id": "N20"
+    },
+    {
+      "text": "and they will be very happy about it.",
+      "id": "N21"
+    }
+  ],
+  "edges": [
+    {
+      "label": "support",
+      "source": 0,
+      "target": 2
+    },
+    {
+      "label": "attack",
+      "source": 3,
+      "target": 4
+    },
+    {
+      "label": "attack",
+      "source": 3,
+      "target": 5
+    },
+    {
+      "label": "attack",
+      "source": 3,
+      "target": 6
+    },
+    {
+      "label": "attack",
+      "source": 3,
+      "target": 7
+    },
+    {
+      "label": "attack",
+      "source": 3,
+      "target": 8
+    },
+    {
+      "label": "support",
+      "source": 4,
+      "target": 5
+    },
+    {
+      "label": "support",
+      "source": 4,
+      "target": 7
+    },
+    {
+      "label": "support",
+      "source": 4,
+      "target": 8
+    },
+    {
+      "label": "support",
+      "source": 5,
+      "target": 7
+    },
+    {
+      "label": "support",
+      "source": 5,
+      "target": 8
+    },
+    {
+      "label": "support",
+      "source": 6,
+      "target": 7
+    },
+    {
+      "label": "support",
+      "source": 10,
+      "target": 11
+    },
+    {
+      "label": "support",
+      "source": 11,
+      "target": 12
+    },
+    {
+      "label": "support",
+      "source": 11,
+      "target": 13
+    },
+    {
+      "label": "support",
+      "source": 12,
+      "target": 13
+    },
+    {
+      "label": "support",
+      "source": 14,
+      "target": 15
+    },
+    {
+      "label": "support",
+      "source": 14,
+      "target": 16
+    },
+    {
+      "label": "support",
+      "source": 14,
+      "target": 17
+    },
+    {
+      "label": "support",
+      "source": 15,
+      "target": 17
+    },
+    {
+      "label": "support",
+      "source": 16,
+      "target": 17
+    },
+    {
+      "label": "support",
+      "source": 18,
+      "target": 19
+    },
+    {
+      "label": "support",
+      "source": 18,
+      "target": 20
+    },
+    {
+      "label": "support",
+      "source": 19,
+      "target": 20
+    },
+    {
+      "label": "support",
+      "source": 0,
+      "target": 11
+    },
+    {
+      "label": "support",
+      "source": 0,
+      "target": 14
+    },
+    {
+      "label": "support",
+      "source": 11,
+      "target": 14
+    }
+  ]
+}

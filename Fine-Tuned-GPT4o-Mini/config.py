@@ -1,0 +1,1 @@
+model = "ft:gpt-4o-mini-2024-07-18:link-lab:3000-example:A1dIhl9g"
